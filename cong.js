@@ -1,5 +1,3 @@
-/* Dependencies */
-
 const areObjects = require('are-objects');
 const areArrays = require('are-arrays');
 
